@@ -29,7 +29,7 @@ const LowerSection = () => {
 
   return (
     <div>
-      <h2 style={{ marginBottom: "10px"  }}>Trending Coins (24h)</h2>
+      <h2 style={{ marginBottom: "10px"  }}>Trending Coins (24h)</h2> 
       {loading ? (
         <p>Loading...</p>
       ) : (
