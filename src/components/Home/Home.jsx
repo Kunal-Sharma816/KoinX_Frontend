@@ -5,7 +5,7 @@ import Insights from "../Insights/Insights";
 import About_Crypto from "../About_crypto/About_Crypto";
 import Teams from "../Teams/Teams";
 import Others from "../Other_crypto/Others";
-import TokeNomics from "../tokenomics/Tokenomics";
+import TokeNomics from "../tokenomics/TokeNomics";
 import Components from "../last_details/Components";
 // import CryptoSection from "../Crypto_data/CryptoSection";
 
