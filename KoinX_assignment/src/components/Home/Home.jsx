@@ -6,6 +6,7 @@ import About_Crypto from "../About_crypto/About_Crypto";
 import Teams from "../Teams/Teams";
 import Others from "../Other_crypto/Others";
 import TokeNomics from "../tokenomics/Tokenomics";
+import Components from "../last_details/Components";
 // import CryptoSection from "../Crypto_data/CryptoSection";
 
 function Home() {
@@ -105,6 +106,16 @@ function Home() {
           <Others/>
         </div>
 
+        {/* six Child Div with other content */}
+      <div
+          style={{
+            backgroundColor: "white",
+            padding: "20px",
+            borderRadius: "8px",
+          }}
+        >
+          <Components/>
+        </div>
 
 
       
